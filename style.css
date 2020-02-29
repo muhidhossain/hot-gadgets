@@ -26,6 +26,7 @@
     padding: 20px 40px;
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
 }
 .cat{
     text-align: center;
