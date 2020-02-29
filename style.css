@@ -30,20 +30,26 @@
 .cat{
     text-align: center;
 }
-.cat1{
+.img1{
     box-shadow: 5px 5px 10px lightgray;
     padding: 40px;
     border-top-right-radius: 20px ;
     border-bottom-left-radius: 20px;
-    margin-top: 200px;
+    margin-top: 20px;
+    text-align: center;
 }
-.cat2{
+.img2{
     box-shadow: 5px 5px 10px lightgray;
     padding: 40px;
     border-top-left-radius: 20px ;
     border-bottom-right-radius: 20px;
-    margin-top: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+.img3{
+    width: 100%;
+    padding: 0;
 }
 .categories{
-    padding-top: 1000px;
+    margin-top: 150px;
 }
